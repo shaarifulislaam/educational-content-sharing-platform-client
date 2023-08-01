@@ -1,0 +1,17 @@
+.backGround{
+    background-color: #0A192F;
+}
+.login-form form input , textarea{
+    width: 80%;
+   /* height: 60%; */
+  }
+.text-style{
+    /* margin-top: 100px; */
+    padding-top: 2%;
+}
+  @media screen and (max-width: 688px) {
+    .login-form form input , textarea{
+        width: 100%;
+       
+      }
+  }

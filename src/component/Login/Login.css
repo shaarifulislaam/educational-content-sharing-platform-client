@@ -1,0 +1,17 @@
+/* .login-form form input {
+    width: 80%;
+  
+  } */
+.radius-form{
+    border-radius: 8px;
+}
+.width-form{
+    width: 100%;
+}
+.text-margin{
+    margin-left: 10%;
+    margin-top: 12%;
+}
+.google-btn{
+    width: 80%;
+}

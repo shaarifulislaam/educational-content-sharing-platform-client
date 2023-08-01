@@ -1,0 +1,44 @@
+
+.bg img{
+border-radius: 30px;
+border: 3px solid #ffffff;
+
+}
+.bg{
+    background-color: #D9DBF1;
+
+    /* background-image: 
+  url(
+"../../../images//bg\ purple.jpg");
+  background-size: 100%;
+  height: 100vh;
+  background-repeat:no-repeat;  */
+    /* background: #3b008d; */
+}
+.btn-custom{
+        color: #EC0B43;
+        background-color:#EC0B43;
+        color: #fff;
+        border: 1px solid #EC0B43;
+        font-size: 1rem;
+        padding: 13px 30px;
+        text-transform: capitalize;
+        transition: all .3s ease 0s;
+        font-weight: 600;
+        letter-spacing: 1px;
+        border-radius: 4px;
+}
+.btn-custom2{
+ 
+  color:  #2E294E;
+  background-color: #2E294E;
+  color: #fff;
+  border: 1px solid  #2E294E;
+  font-size: 1rem;
+  padding: 13px 30px;
+  text-transform: capitalize;
+  transition: all .3s ease 0s;
+  font-weight: 600;
+  letter-spacing: 1px;
+  border-radius: 4px;
+}

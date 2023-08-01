@@ -1,0 +1,10 @@
+/* .services-container{
+  background-color: #7433c1;
+} */
+
+  @media screen and (max-width: 800px) {
+    .responsive{
+      margin-top:100px;
+    }
+  }
+  
